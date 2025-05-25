@@ -34,13 +34,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzad-e&show_icons=true&theme=react&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzad-e&theme=react&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=electroxo&show_icons=true&theme=react&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=electroxo&theme=react&hide_border=true" width="47%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad-e&layout=compact&theme=react&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=electroxo&layout=compact&theme=react&hide_border=true" width="47%" />
 </div>
+
 ---
 
 ### 🔬 Final Year Project (FYP)
