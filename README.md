@@ -1,24 +1,32 @@
-<!-- GitHub Profile README -->
-
-<h1 align="center">Hi there 👋, I'm shahzad</h1>
-<h3 align="center">A passionate Ai enthusiast from [Pakistan]</h3>
+<h1 align="center">Hi there 👋, I'm Shahzad (aka Electro)</h1>
+<h3 align="center">AI/ML Enthusiast | Deep Learning Explorer | Django Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%92%9B;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=450&lines=AI+%26+ML+Enthusiast+%F0%9F%A7%BD;FYP:+Alzheimer's+Detection+using+CNN+%E2%9A%AB;Currently+Learning+LLMs+%26+Attention+Mechanisms;Exploring+Computer+Vision+%26+Cyber+Security;Love+Python+%26+Django+%F0%9F%A7%BF" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahzad-ahmed-92427a27a/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzadahmed9712@gmail.com)
+
+---
+
+### 🧠 About Me
+
+- 🎓 **Final Year Project (FYP):** *Alzheimer's Disease Detection Using CNN*
+- 🔭 Currently learning **LLMs**, **Attention Mechanisms**, **Computer Vision**, and **Cyber Security**
+- 💡 Passionate about AI for **healthcare**, **vision systems**, and **smart applications**
+- 💻 Experienced with full-stack development using Django and Python
 
 ---
 
 ### 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,mongodb,python,java,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,html,js,cpp,cs,git,github,vscode" />
 </p>
 
 ---
@@ -26,40 +34,45 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzad-e&show_icons=true&theme=react&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzad-e&theme=react&hide_border=true" width="47%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad-e&layout=compact&theme=react&hide_border=true" width="47%" />
 </div>
 
 ---
 
-### 🧠 Currently Learning
-- TypeScript
-- Docker & Kubernetes
-- Next.js
-- DSA & System Design
+### 🔬 Final Year Project (FYP)
+
+🧪 **Alzheimer’s Disease Detection Using Convolutional Neural Networks (CNN)**  
+A deep learning solution for early-stage detection of Alzheimer's disease using MRI image classification.  
+✅ Built with TensorFlow, Python, OpenCV  
+📊 Focused on healthcare AI and image-based diagnostics
 
 ---
 
-### 🧰 Featured Projects
+### 📂 Featured Projects
 
-- 🔧 [**Inventory Management System**](https://github.com/electroxo/inventory-system)  
-  A complete hardware tracking solution built using ASP.NET Core and Entity Framework.
+- 🤖 [**AI Chatbot (Regex-based)**](https://github.com/shahzad-e/ai-chatbot)  
+  Simple NLP chatbot designed using rule-based responses and regex parsing.
 
-- 🤖 [**AI Chatbot**](https://github.com/electroxo/ai-chatbot)  
-  Regex-based chatbot trained to simulate basic conversations in a lightweight interface.
+- 🧠 [**Alzheimer’s Detection using CNN**](https://github.com/shahzad-e/alzheimers-cnn) *(FYP)*  
+  Full project including dataset, model, training scripts, and evaluation metrics.
 
 ---
 
 ### 📈 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" />
+  <img src="https://profile-counter.glitch.me/shahzad-e/count.svg" />
 </p>
 
 ---
+
+> 💬 *"I believe AI is not just the future — it's the present we’re actively building."*
+
+
 
 
