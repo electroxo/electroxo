@@ -58,7 +58,7 @@ A deep learning solution for early-stage detection of Alzheimer's disease using 
 - 🤖 [**AI Chatbot (Regex-based)**](https://github.com/shahzad-e/ai-chatbot)  
   Simple NLP chatbot designed using rule-based responses and regex parsing.
 
-- 🧠 [**Alzheimer’s Detection using CNN**](https://github.com/shahzad-e/alzheimers-cnn) *(FYP)*  
+- 🧠 [**Alzheimer’s Detection using CNN**](https://github.com/electroxo/alzheimers-detection-using-cnn) *(FYP)*  
   Full project including dataset, model, training scripts, and evaluation metrics.
 
 ---
