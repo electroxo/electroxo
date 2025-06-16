@@ -61,7 +61,7 @@ A deep learning solution for early-stage detection of Alzheimer's disease using 
 - 🧠 [**Alzheimer’s Detection using CNN**](https://github.com/electroxo/alzheimers-detection-using-cnn) *(FYP)*  
   Full project including dataset, model, training scripts, and evaluation metrics.
 
-- 📸 [**Text Detection using EasyOCR & OpenCV**](https://github.com/your-username/text-detection-easyocr)  
+- 📸 [**Text Detection using EasyOCR & OpenCV**]([https://github.com/electroxo/text-detection)  
   Detects and extracts text from images using `EasyOCR`, `OpenCV`, and visualizes results using `matplotlib`.  
   ⚙️ Python-based solution for visual text recognition.
 
